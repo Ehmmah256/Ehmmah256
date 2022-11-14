@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ehmmah256
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ema
+- 👀 I’m interested in cyber security and penetration testing.
+- 🌱 I’m currently learning kali linus, c,c++, mySQL and python programming languages. 
+- 💞️ I’m looking to collaborate on cyber security and penetration testing.
+- 📫 How to reach me, whatsapp @+256753748665, facebook Emmanuel Onoria(Ema), twitter @ema_onoria
 
 <!---
 Ehmmah256/Ehmmah256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
