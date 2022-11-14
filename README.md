@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ema
 - 👀 I’m interested in cyber security and penetration testing.
-- 🌱 I’m currently learning kali linus, c,c++, mySQL and python programming languages. 
+- 🌱 I’m currently learning kali linux, c,c++, mySQL and python programming languages. 
 - 💞️ I’m looking to collaborate on cyber security and penetration testing.
 - 📫 How to reach me, whatsapp @+256753748665, facebook Emmanuel Onoria(Ema), twitter @ema_onoria
 
