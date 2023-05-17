@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Ema
-- 👀 I’m interested in Database development and Machine Learning.
-- 🌱 I’m currently learning kali linux, c,c++, mySQL and python programming languages. 
-- 💞️ I’m looking to collaborate on cyber security and penetration testing.
-- 📫 How to reach me, whatsapp @+256753748665, facebook Emmanuel Onoria(Ema), twitter @ema_onoria
+- 👋 Hi, I’m Emma.
+- 👨🏿‍💻IT professional with expertise in Database Dev't, Data Mgt., Computer Networking, Data Security and Software Dev't. 
+- 🤝I’m looking to collaborate.
+- 📫 How to reach me, whatsapp @+256753748665/ 78511866, facebook Emmanuel Onoria(TechGuy), twitter @ema_onoria
 
 <!---
 Ehmmah256/Ehmmah256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
