@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Emma.
-- 👨🏿‍💻IT professional with expertise in Database Dev't, Data Mgt., Computer Networking, Data Security and Software Dev't. 
-- 🤝I’m looking to collaborate.
-- 📫 How to reach me, whatsapp @+256753748665/ 785511866, facebook Emmanuel Onoria(TechGuy), twitter @ema_onoria
+- 👨🏿‍💻an I.T Professional in Programming, Data analysis, Networking, Security, Embedded systems and Cloud computing 👨🏿‍💻- 🤝I’m looking to collaborate.
+- 📫 How to reach me, whatsapp @+256 753748665/ 785511866, facebook Emmanuel Onoria(TechGuy), Twitter @ema_onoria
 
 <!---
 Ehmmah256/Ehmmah256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
