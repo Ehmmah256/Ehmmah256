@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emma.
-- 👨🏿‍💻an I.T Professional in Programming, Data analysis, Networking, Security, Embedded systems and Cloud computing 👨🏿‍💻- 🤝I’m looking to collaborate.
+- 👨🏿‍💻 A Software and Network Enfineer.👨🏿‍💻- 🤝I’m looking to collaborate.
 - 📫 How to reach me, whatsapp @+256 753748665/ 785511866, facebook Emmanuel Onoria(TechGuy), Twitter @ema_onoria
 
 <!---
