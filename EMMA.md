@@ -1,6 +1,11 @@
 - 👋 Hi, I’m Emma.
-- 👨🏿‍💻 A Software and Network Engineer.👨🏿‍💻- 🤝I’m looking to collaborate.
-- 📫 How to reach me, whatsapp @+256 753748665/ 785511866, facebook Emmanuel Onoria(TechGuy), Twitter @ema_onoria
+- an I.T Professional. I do Programming (Web & Apps),Database Management, Network administration and  Information Security. 
+- I’m looking to collaborate.
+- How to reach me, 
+Whatsapp
+@+256785511866, 
+Facebook EmmanuelOnoria(TechGuy), Twitter
+@ema_onoria
 
 <!---
 Ehmmah256/Ehmmah256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
