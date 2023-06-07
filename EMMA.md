@@ -4,7 +4,7 @@
 - How to reach me, 
 Whatsapp
 @+256785511866, 
-Facebook EmmanuelOnoria(Emma), Twitter
+Facebook Emmanuel Onoria(Emma), Twitter
 @ema_onoria
 
 <!---
